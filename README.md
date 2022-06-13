@@ -1,0 +1,2 @@
+# GatedEmail
+Gated Email Html
